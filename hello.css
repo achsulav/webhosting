@@ -1,0 +1,27 @@
+#navbar{
+    height: 25%;
+    width: 1500px;
+    border: 4px blanchedalmond;
+    padding: 20px;
+    background-color: beige;
+  
+  
+}
+a{
+  margin-right: 100px;
+   text-decoration: none;
+   color: purple
+}
+button{
+    color: brown;
+    background-color: aquamarine;
+}
+#menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.pig{
+    font-size: 2em;
+    color:black
+}
